@@ -12,7 +12,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[shenime](https://shenime.vercel.app)** — anime streaming website- 🌱 Learning reverse engineering & Android game modding
+- 🔭 Currently working on **[shenime](https://shenime.vercel.app)** — anime streaming website
+- 🌱 Learning reverse engineering & Android game modding
 - 💬 Ask me about web dev, anime, or RE tools
 - ⚡ Fun fact: I build things that probably shouldn't exist
 
