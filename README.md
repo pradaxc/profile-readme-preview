@@ -12,12 +12,15 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[shenime](https://shenime.vercel.app)** — anime streaming website
-- 🌱 Learning reverse engineering & Android game modding
+- 🔭 Currently working on **[shenime](https://shenime.vercel.app)** — anime streaming website- 🌱 Learning reverse engineering & Android game modding
 - 💬 Ask me about web dev, anime, or RE tools
 - ⚡ Fun fact: I build things that probably shouldn't exist
 
 ---
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pradaxc&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🛠️ Tech Stack
 
